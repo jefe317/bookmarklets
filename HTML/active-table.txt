@@ -1,0 +1,1 @@
+javascript:(function()%7B%20var%20jselem%3Ddocument.createElement(%27SCRIPT%27)%3B%20jselem.type%3D%27text/javascript%27%3B%20jselem.src%3D%27https://gist.github.com/stevesouders/5952488/raw/activetable.js%27%3B%20document.getElementsByTagName(%27head%27)%5B0%5D.appendChild(jselem)%3B%20%7D)()%3B

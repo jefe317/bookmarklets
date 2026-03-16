@@ -1,0 +1,1 @@
+javascript:location.href = "https://www.youtube.com/watch?v=%22%20+%20location.href.split(%22/%22)[4]

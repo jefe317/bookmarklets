@@ -1,0 +1,1 @@
+javascript:(function(){/^https:\/\/www\.youtube\.com\/watch\?v=/.test(location.href)?location.href=location.href.replace(/\/watch\?v=/,%27/embed/%27):alert(%22NOTICE:%20This%20works%20only%20on%20youtube.com%22);})();

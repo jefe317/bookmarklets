@@ -1,0 +1,1 @@
+javascript:location%20=%20(location.toString().indexOf('?%27)%20!=%20-1%20?%20location.toString().replace%20(new%20RegExp(%27%5B?%5D%5B%5E?%5D*$%27),%20%27%27)%20:%20location.toString().replace%20(new%20RegExp(%27/%5B%5E/%5D*/*$%27),%20%27/%27));
